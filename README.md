@@ -1,10 +1,10 @@
 # Dashboard
 
-Cloning the Repository
+## Cloning the Repository
 
     git clone https://github.com/jkmathilda/pandas-dashboard.git
 
-Setting up a Virtual Environment
+## Setting up a Virtual Environment
 
     cd ./pandas-dashboard
 
@@ -19,7 +19,7 @@ Setting up a Virtual Environment
 
     source .venv/bin/activate
 
-Install the required dependencies
+## Install the required dependencies
 
     pip list
     
@@ -27,11 +27,11 @@ Install the required dependencies
     
     pip freeze | tee requirements.txt.detail
 
-Running the Application
+## Running the Application
 
     python -m streamlit run Home.py
 
-Deactivate the virtual environment
+## Deactivate the virtual environment
 
     deactivate
 
