@@ -1,4 +1,5 @@
 # Dashboard
+This is a dashboard making sample with Pandas. 
 
 ## Cloning the Repository
 
