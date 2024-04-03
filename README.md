@@ -38,13 +38,9 @@ Deactivate the virtual environment
 
 ## Reference
 
-[Python Interactive Dashboard Development using Streamlit and Plotly](https://www.youtube.com/watch?v=7yAw1nPareM)     [Git](https://github.com/AbhisheakSaraswat/PythonStreamlit)
+[Python Interactive Dashboard Development using Streamlit and Plotly](https://www.youtube.com/watch?v=7yAw1nPareM) -   [Git](https://github.com/AbhisheakSaraswat/PythonStreamlit)
 
-[Crafting a Dashboard App in Python using Streamlit](https://www.youtube.com/watch?v=asFqpMDSPdM)
+[Crafting a Dashboard App in Python using Streamlit](https://www.youtube.com/watch?v=asFqpMDSPdM) -   [Git](https://github.com/dataprofessor/population-dashboard)
 
-[Git](https://github.com/dataprofessor/population-dashboard)
-
-[My Workflow for Building any Streamlit Dashboard Project](https://www.youtube.com/watch?v=yg0Y7w4AHhw)
-
-[Git](https://github.com/andfanilo/social-media-tutorials/tree/master/20230816-stdashboard)
+[My Workflow for Building any Streamlit Dashboard Project](https://www.youtube.com/watch?v=yg0Y7w4AHhw)  -  [Git](https://github.com/andfanilo/social-media-tutorials/tree/master/20230816-stdashboard)
 
