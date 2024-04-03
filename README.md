@@ -1,5 +1,5 @@
 # Dashboard
-This is a dashboard making sample with Pandas. 
+This dashboard is made using Pandas and Streamlit. 
 
 ## Cloning the Repository
 
