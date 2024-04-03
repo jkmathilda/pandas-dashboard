@@ -3,8 +3,8 @@ import os
 
 def main():
     st.set_page_config(
-        page_title = "Pandas Apps",
-        page_icon = "🎛️",   # :bar_chart:
+        page_title = "Pandas Dashboard",
+        page_icon = "🐼",   # :bar_chart:
         layout = "wide",
         initial_sidebar_state="expanded"
     )
@@ -18,7 +18,7 @@ def main():
         )
     
     # main page
-    st.title("Welcome to the Pandas Dashboard Apps")
+    st.title("This is a Dashboard Making Practice with Pandas")
     st.divider()
 
     st.markdown("""
