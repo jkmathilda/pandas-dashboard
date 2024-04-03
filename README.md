@@ -38,9 +38,7 @@ Deactivate the virtual environment
 
 ## Reference
 
-[Python Interactive Dashboard Development using Streamlit and Plotly](https://www.youtube.com/watch?v=7yAw1nPareM)
-
-[Git](https://github.com/AbhisheakSaraswat/PythonStreamlit)
+[Python Interactive Dashboard Development using Streamlit and Plotly](https://www.youtube.com/watch?v=7yAw1nPareM)     [Git](https://github.com/AbhisheakSaraswat/PythonStreamlit)
 
 [Crafting a Dashboard App in Python using Streamlit](https://www.youtube.com/watch?v=asFqpMDSPdM)
 
