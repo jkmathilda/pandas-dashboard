@@ -13,7 +13,7 @@ def main():
         # st.info("Select a page above.")
         st.write(
             "<small>**About.**  \n</small>",
-            "<small>*blueholelabs*, Feb. 2024  \n</small>",
+            "<small>*Mathilda*, Feb. 2024  \n</small>",
             unsafe_allow_html=True,
         )
     
